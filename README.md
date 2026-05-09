@@ -26,11 +26,11 @@ entregas/
 ## Sprints
 | Sprint | Semestre | Prazo | Status |
 |--------|----------|-------|--------|
-| Sprint 1 e 2 | 1º Semestre | 24/05/2026 | 🔄 Em andamento |
-| Sprint 3 | 2º Semestre | A definir | ⏳ Pendente |
-| Sprint 4 | 2º Semestre | A definir | ⏳ Pendente |
+| Sprint 1 e 2 | 1º Semestre | 24/05/2026 | Em andamento |
+| Sprint 3 | 2º Semestre | A definir | Pendente |
+| Sprint 4 | 2º Semestre | A definir | Pendente |
 
 ## Organização do Projeto
 
 Todo o desenvolvimento do projeto está centralizado na nossa organização do GitHub:
-[github.com/Clyvo-Vet](https://github.com/Clyvo-Pet) 
+[github.com/Clyvo-Vet](https://github.com/Clyvo-Pet/Clyvo-Vet-QA) 
